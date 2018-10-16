@@ -1,0 +1,28 @@
+{
+    "extends": [
+        "config:base"
+    ],
+    "automerge": true,
+    "major": {
+        "automerge": false
+    },
+    "labels": [
+        "renovate",
+        "dependencies"
+    ],
+    "automergeType": "pr",
+    "timezone": "Europe/Berlin",
+    "schedule": [
+        "after 9am every weekday",
+        "before 6pm every weekday"
+    ],
+    "statusCheckVerify": true,
+    "ignoreDeps": [
+        "bugsnag",
+        "eslint",
+        "eslint-config-airbnb",
+        "eslint-plugin-import",
+        "eslint-plugin-jsx-a11y",
+        "eslint-plugin-react"
+    ]
+}
