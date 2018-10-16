@@ -17,6 +17,12 @@
         "before 6pm every weekday"
     ],
     "statusCheckVerify": true,
+    "packageRules": [
+        {
+            "packageNames": ["aws-sdk"],
+            "extends": ["schedule:weekly"]
+        }
+    ],
     "ignoreDeps": [
         "bugsnag",
         "eslint",
