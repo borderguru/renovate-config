@@ -12,10 +12,6 @@
     ],
     "automergeType": "pr",
     "timezone": "Europe/Berlin",
-    "schedule": [
-        "after 9am every weekday",
-        "before 6pm every weekday"
-    ],
     "statusCheckVerify": true,
     "packageRules": [
         {
