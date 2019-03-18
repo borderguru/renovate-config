@@ -26,5 +26,8 @@
         "eslint-plugin-import",
         "eslint-plugin-jsx-a11y",
         "eslint-plugin-react"
-    ]
+    ],
+    "encrypted": {
+        "npmToken": "D0hrux7kk+1fgGbaszzCKsHOncEkLWvN4RM0UT/YiWjMiNQsgBVjCN6haKOHpH98xkbYla0sqQnuMQiGxcp+Q0H3SE2Mn//n8Biy3XpyGqiue/FGuJWm/jOs+JhJA30l2aWV0niG5UDrtuH5NKECVrKGFc/qfVkIxzemVc/1vCIf+KJ7mCfbQ1OzwvlaXaqvV2UfyW20RwSTgSNX1Pe3z3h0MUlu20PCr8IuX1ED10sWK82mGGiIAvytAABbHTMHA4TVjqTCtoUV22QuExksaN8zzfnQGhd4pZL4X2xjw51d8jmjKSB1xxjqTk8CXE6bvFdqwGyqDCJfHOMg7GNtQQ=="
+    }
 }
