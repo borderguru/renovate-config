@@ -20,6 +20,8 @@
         }
     ],
     "ignoreDeps": [
+        "@borderguru/borderbulk-sdk",
+        "@borderguru/borderbulk-types",
         "bugsnag",
         "eslint",
         "eslint-config-airbnb",
