@@ -10,6 +10,7 @@
         "renovate",
         "dependencies"
     ],
+    "semanticCommits": true,
     "automergeType": "pr",
     "timezone": "Europe/Berlin",
     "statusCheckVerify": true,
