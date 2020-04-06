@@ -13,6 +13,10 @@
     "semanticCommits": true,
     "automergeType": "pr",
     "timezone": "Europe/Berlin",
+    "schedule": [
+        "after 10pm and before 5am on every weekday",
+        "every weekend"
+    ],
     "statusCheckVerify": true,
     "packageRules": [
         {
