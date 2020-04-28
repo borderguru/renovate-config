@@ -17,6 +17,7 @@
         "after 10pm and before 5am on every weekday",
         "every weekend"
     ],
+    "rebaseWhen": "never",
     "statusCheckVerify": true,
     "packageRules": [
         {
